@@ -1,0 +1,2 @@
+rootProject.name = "Pub Musicfor Android"
+include ':app'
